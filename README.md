@@ -3,13 +3,13 @@
 Soy Noe Oziel Perez Lopez, actualmente trabajo como desarrollador de aplicaciones mobiles en [Niku Tecnología] (https://niku.com.mx). Soy desarrollador Full-Stack Junior y me gusta aprender, crear e inovar con código y componentes. Puedes contactarme por medio de:
 <!--->
 [![Gmail Badge](https://img.shields.io/badge/-ploz2767@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ploz2767@gmail.com)](mailto:ploz2767@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/noe.oz2767?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/noe.oz2767/)](https://www.facebook.com/noe.oz2767/)<!-->
+[![Facebook Badge](https://img.shields.io/badge/noe.oz2767?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/noe.oz2767/)](https://www.facebook.com/noe.oz2767/)<!--->
 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-<!--->![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)<!-->
+<!--->![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)<!--->
 ![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
