@@ -1,7 +1,7 @@
 
 
 ## 😶‍🌫️ Hi
-<p>My name is Noe Oziel Perez Lopez and I'm a **fullStack developer** with **3 years of experience**. I graduated in Software Management and Development Engineering from the Technological University of Puebla; I also completed a degree in web and mobile development in France.</p>
+My name is Noe Oziel Perez Lopez and I'm a **fullStack developer** with **3 years of experience**. I graduated in Software Management and Development Engineering from the Technological University of Puebla; I also completed a degree in web and mobile development in France.
 
 ## 📕 Current projects
 `I've made some changes to my...`
