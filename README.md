@@ -6,7 +6,9 @@
 ## 📕 Current projects
 `I've made some changes to my...`
 > [👛 Control spends app](https://github.com/NoeOz/control-spend)
+
 > [⏱️ Simple timer app](https://github.com/NoeOz/react-native-timer)
+
 > [🥸 Profolio app](https://github.com/NoeOz/ego-sum)
 
 ## ⚡Tech Stack
