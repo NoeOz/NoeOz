@@ -3,6 +3,8 @@
 ## 😶‍🌫️ Hi
 My name is Noe Oziel Perez Lopez and I'm a **fullStack developer** with **3 years of experience**. I graduated in Software Management and Development Engineering from the Technological University of Puebla; I also completed a degree in web and mobile development in France.
 
+You can also check my LinkedIn: https://www.linkedin.com/in/noe-oziel-perez-lopez-a52891255/
+
 ## 📕 Current projects
 `I've made some changes to my...`
 > [👛 Control spends app](https://github.com/NoeOz/control-spend)
