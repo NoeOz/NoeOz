@@ -7,6 +7,8 @@ You can also check my [LinkedIn](https://www.linkedin.com/in/noe-oziel-perez-lop
 
 ## 📕 Current projects
 `I've made some changes to my...`
+> [📕 Ex Poligono](https://github.com/NoeOz/ex-poligono)
+
 > [👛 Control spends app](https://github.com/NoeOz/control-spend)
 
 > [⏱️ Simple timer app](https://github.com/NoeOz/react-native-timer)
